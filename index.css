@@ -1,0 +1,1772 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-300);
+  width: 1440px;
+  height: 857px;
+}
+.rectangle-div1,
+.rectangle-div2 {
+  position: absolute;
+  top: 0;
+  border-radius: var(--br-xs);
+  height: 8px;
+}
+.rectangle-div1 {
+  left: 0;
+  background-color: var(--color-brown);
+  width: 57px;
+}
+.rectangle-div2 {
+  left: 68px;
+  background-color: #c4c4c4;
+  width: 21px;
+}
+.slider-div {
+  position: absolute;
+  top: 149px;
+  left: 695px;
+  width: 89px;
+  height: 8px;
+}
+.our-client-reviews {
+  position: absolute;
+  top: 48px;
+  left: 498px;
+  line-height: 92px;
+  display: inline-block;
+}
+.rectangle-div3,
+.section-7-div {
+  position: absolute;
+  top: 4798px;
+  left: 0;
+  width: 1480px;
+  height: 857px;
+}
+.rectangle-div3 {
+  top: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-200);
+  width: 1281px;
+  height: 499px;
+}
+.enjoy-a-great-driving-experien,
+.save-20-for-today {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 74px;
+  display: inline-block;
+}
+.enjoy-a-great-driving-experien {
+  top: 82px;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.01em;
+  line-height: 26px;
+  font-weight: 500;
+  color: var(--color-gray-900);
+}
+.text-div1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 588px;
+  height: 108px;
+}
+.rectangle-div4,
+.rectangle-div5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lg);
+  background-color: var(--color-gray-1200);
+  width: 502px;
+  height: 85px;
+}
+.rectangle-div5 {
+  top: 13px;
+  left: 421px;
+  border-radius: var(--br-md);
+  background-color: var(--color-white);
+  width: 66px;
+  height: 59px;
+}
+.enter-your-email {
+  position: absolute;
+  top: 30px;
+  left: 23px;
+  letter-spacing: 0.01em;
+  line-height: 26px;
+  font-weight: 500;
+  display: inline-block;
+}
+.group-icon {
+  position: absolute;
+  height: 38.31%;
+  width: 6.47%;
+  top: 30.59%;
+  right: 6.27%;
+  bottom: 31.1%;
+  left: 87.25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.cta-div {
+  position: absolute;
+  top: 180px;
+  left: 0;
+  width: 502px;
+  height: 85px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-800);
+}
+.text-div {
+  position: absolute;
+  top: 118px;
+  left: 93px;
+  width: 588px;
+  height: 265px;
+}
+.image-icon,
+.section-6-div {
+  position: absolute;
+  top: 51px;
+  left: 842px;
+  width: 334px;
+  height: 334px;
+}
+.section-6-div {
+  top: 4126px;
+  left: 100px;
+  width: 1281px;
+  height: 499px;
+}
+.need-help {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.with-anything-p {
+  margin: 0;
+}
+.need-help-with-anything {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-4xl);
+  line-height: 74px;
+  font-weight: 500;
+  color: var(--color-gray-1200);
+  display: inline-block;
+}
+.categories-div,
+.pricing-div,
+.products-b,
+.testimonials-div {
+  position: relative;
+  line-height: 33px;
+  display: inline-block;
+  width: 121px;
+  height: 35px;
+  flex-shrink: 0;
+}
+.categories-div,
+.pricing-div,
+.testimonials-div {
+  font-weight: 500;
+  width: 165px;
+}
+.pricing-div,
+.testimonials-div {
+  width: 123px;
+}
+.testimonials-div {
+  width: 160px;
+}
+.frame-div,
+.frame-div1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-div1 {
+  gap: var(--gap-md);
+  font-size: var(--font-size-base);
+  color: var(--color-gray-900);
+}
+.frame-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  gap: var(--gap-lg);
+}
+.group-div {
+  position: absolute;
+  top: 11px;
+  left: 822px;
+  width: 165px;
+  height: 220px;
+}
+.contact-us-div,
+.customers-div,
+.discover-b,
+.privacy-div {
+  position: relative;
+  line-height: 33px;
+  display: inline-block;
+  width: 99px;
+  height: 35px;
+  flex-shrink: 0;
+}
+.contact-us-div,
+.customers-div,
+.privacy-div {
+  font-weight: 500;
+  width: 133px;
+}
+.customers-div,
+.privacy-div {
+  width: 180px;
+}
+.privacy-div {
+  width: 78px;
+}
+.group-div1 {
+  position: absolute;
+  top: 11px;
+  left: 1099px;
+  width: 180px;
+  height: 220px;
+}
+.about,
+.about-us-div,
+.features-div,
+.news-blog {
+  position: relative;
+  line-height: 33px;
+  display: inline-block;
+  width: 73px;
+  height: 35px;
+  flex-shrink: 0;
+}
+.about-us-div,
+.features-div,
+.news-blog {
+  font-weight: 500;
+  width: 112px;
+}
+.features-div,
+.news-blog {
+  width: 95px;
+}
+.news-blog {
+  width: 127px;
+}
+.group-div2 {
+  position: absolute;
+  top: 11px;
+  left: 583px;
+  width: 127px;
+  height: 220px;
+}
+.copyright-at-car-shop-2022-al {
+  position: absolute;
+  top: 345px;
+  left: 401px;
+  font-size: var(--font-size-base);
+  line-height: 31px;
+  font-weight: 500;
+  color: var(--color-gray-1100);
+  display: inline-block;
+}
+.rectangle-div6,
+.text-div2 {
+  position: absolute;
+  top: 0;
+  left: 2px;
+  width: 1279px;
+  height: 376px;
+}
+.rectangle-div6 {
+  top: 291px;
+  left: 0;
+  background-color: #583762;
+  border: 1px dashed var(--color-gray-300);
+  box-sizing: border-box;
+  width: 1280px;
+  height: 2px;
+}
+.section-8-div,
+.social-icon {
+  position: absolute;
+  top: 194px;
+  left: 2px;
+  width: 205px;
+  height: 42px;
+}
+.section-8-div {
+  top: 5808px;
+  left: 99px;
+  width: 1281px;
+  height: 376px;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-700);
+}
+.rectangle-div7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lg);
+  background-color: var(--color-gray-100);
+  border: 1px solid var(--color-gray-600);
+  box-sizing: border-box;
+  width: 285px;
+  height: 360px;
+}
+.day-div,
+.skoda-octavia-trd-off-road-pre {
+  position: absolute;
+  top: 231px;
+  left: 36px;
+  letter-spacing: 0.01em;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+}
+.day-div {
+  top: 299px;
+  left: 139px;
+  font-size: var(--font-size-2xl);
+  line-height: 26px;
+  color: var(--color-gray-700);
+}
+.group-8-div {
+  position: absolute;
+  top: 413px;
+  left: 996px;
+  width: 285px;
+  height: 360px;
+  font-size: var(--font-size-2xs);
+  color: var(--color-gray-900);
+}
+.skoda-octavia-trd-off-road-pre1 {
+  position: absolute;
+  top: 232px;
+  left: 36px;
+  letter-spacing: 0.01em;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+}
+.group-7-div {
+  position: absolute;
+  top: 413px;
+  left: 664px;
+  width: 285px;
+  height: 360px;
+  font-size: var(--font-size-2xs);
+  color: var(--color-gray-900);
+}
+.day-div2 {
+  position: absolute;
+  top: 299px;
+  left: 144px;
+  font-size: var(--font-size-2xl);
+  letter-spacing: 0.01em;
+  line-height: 26px;
+  font-weight: 500;
+  color: var(--color-gray-700);
+  display: inline-block;
+}
+.group-6-div {
+  position: absolute;
+  top: 413px;
+  left: 332px;
+  width: 285px;
+  height: 360px;
+  font-size: var(--font-size-2xs);
+  color: var(--color-gray-900);
+}
+.skoda-octavia-div,
+.skoda-octavia-div1,
+.skoda-octavia-div2 {
+  position: absolute;
+  top: 0;
+  left: 8px;
+  line-height: 33px;
+  font-weight: 500;
+  display: inline-block;
+}
+.skoda-octavia-div1,
+.skoda-octavia-div2 {
+  left: 329px;
+  letter-spacing: 0.01em;
+  line-height: 26px;
+}
+.skoda-octavia-div2 {
+  left: 663px;
+}
+.frame-div6 {
+  position: absolute;
+  top: 191px;
+  left: 36px;
+  width: 1143px;
+  height: 33px;
+}
+.day-div3,
+.skoda-octavia-trd-off-road-pre3 {
+  position: absolute;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+  display: inline-block;
+}
+.skoda-octavia-trd-off-road-pre3 {
+  top: 232px;
+  left: 36px;
+  font-size: var(--font-size-2xs);
+  line-height: 22px;
+  color: var(--color-gray-900);
+}
+.day-div3 {
+  top: 299px;
+  left: 145px;
+  line-height: 26px;
+}
+.group-5-div {
+  position: absolute;
+  top: 413px;
+  left: 0;
+  width: 1179px;
+  height: 360px;
+}
+.day-div4 {
+  position: absolute;
+  top: 308px;
+  left: 145px;
+  letter-spacing: 0.01em;
+  line-height: 26px;
+  font-weight: 500;
+  display: inline-block;
+}
+.group-2-div,
+.group-3-div,
+.group-4-div {
+  position: absolute;
+  top: 0;
+  left: 996px;
+  width: 285px;
+  height: 360px;
+}
+.group-2-div,
+.group-3-div {
+  left: 664px;
+}
+.group-2-div {
+  left: 332px;
+}
+.day-div7,
+.rang-rover-div,
+.rang-rover-div1,
+.rang-rover-div2,
+.skoda-octavia-div3 {
+  position: absolute;
+  top: 193px;
+  left: 36px;
+  line-height: 33px;
+  font-weight: 500;
+  display: inline-block;
+}
+.day-div7,
+.rang-rover-div1,
+.rang-rover-div2,
+.skoda-octavia-div3 {
+  left: 355px;
+}
+.day-div7,
+.rang-rover-div2,
+.skoda-octavia-div3 {
+  left: 688px;
+}
+.day-div7,
+.skoda-octavia-div3 {
+  left: 1013px;
+}
+.day-div7 {
+  top: 308px;
+  left: 144px;
+  letter-spacing: 0.01em;
+  line-height: 26px;
+}
+.rang-rover-trd-off-road-premiu,
+.rang-rover-trd-off-road-premiu1,
+.rang-rover-trd-off-road-premiu2,
+.skoda-octavia-trd-off-road-pre4 {
+  position: absolute;
+  top: 234px;
+  left: 36px;
+  font-size: var(--font-size-2xs);
+  letter-spacing: 0.01em;
+  line-height: 22px;
+  font-weight: 500;
+  color: var(--color-gray-900);
+  display: inline-block;
+}
+.rang-rover-trd-off-road-premiu1,
+.rang-rover-trd-off-road-premiu2,
+.skoda-octavia-trd-off-road-pre4 {
+  left: 355px;
+}
+.rang-rover-trd-off-road-premiu2,
+.skoda-octavia-trd-off-road-pre4 {
+  left: 688px;
+}
+.skoda-octavia-trd-off-road-pre4 {
+  left: 1013px;
+}
+.pngegg-3-10,
+.pngegg-3-3,
+.pngegg-3-4,
+.pngegg-3-5,
+.pngegg-3-6,
+.pngegg-3-7,
+.pngegg-3-8,
+.pngegg-3-9 {
+  position: absolute;
+  top: 18px;
+  left: 41px;
+  border-radius: var(--br-sm);
+  width: 203.64px;
+  height: 150px;
+  object-fit: cover;
+}
+.pngegg-3-10,
+.pngegg-3-4,
+.pngegg-3-5,
+.pngegg-3-6,
+.pngegg-3-7,
+.pngegg-3-8,
+.pngegg-3-9 {
+  top: 433px;
+}
+.pngegg-3-10,
+.pngegg-3-4,
+.pngegg-3-5,
+.pngegg-3-6,
+.pngegg-3-8,
+.pngegg-3-9 {
+  top: 18px;
+  left: 373px;
+}
+.pngegg-3-10,
+.pngegg-3-5,
+.pngegg-3-6,
+.pngegg-3-8,
+.pngegg-3-9 {
+  top: 433px;
+}
+.pngegg-3-10,
+.pngegg-3-5,
+.pngegg-3-6,
+.pngegg-3-9 {
+  top: 18px;
+  left: 705px;
+}
+.pngegg-3-10,
+.pngegg-3-6,
+.pngegg-3-9 {
+  left: 1037px;
+}
+.pngegg-3-10,
+.pngegg-3-9 {
+  top: 433px;
+}
+.pngegg-3-9 {
+  left: 705px;
+}
+.group-1-div,
+.product-detail-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1240.64px;
+  height: 583px;
+}
+.product-detail-div {
+  top: 268px;
+  width: 1281px;
+  height: 773px;
+}
+.find-your-match {
+  position: absolute;
+  top: 0;
+  left: 184px;
+  line-height: 92px;
+  display: inline-block;
+  color: var(--color-gray-1200);
+}
+.we-know-what-youre-searching {
+  position: absolute;
+  top: 100px;
+  left: 256px;
+  font-size: var(--font-size-sm);
+  letter-spacing: 0.01em;
+  line-height: 26px;
+  font-weight: 500;
+  display: inline-block;
+}
+.rectangle-div15 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-gray-100);
+  border: 2px solid gray;
+  box-sizing: border-box;
+  width: 188px;
+  height: 57px;
+}
+.honda-div {
+  position: absolute;
+  top: 16px;
+  left: 50px;
+  letter-spacing: 0.01em;
+  line-height: 26px;
+  font-weight: 500;
+  display: inline-block;
+}
+.group-div4 {
+  position: relative;
+  width: 188px;
+  height: 57px;
+  flex-shrink: 0;
+  color: #666;
+}
+.new-div {
+  position: absolute;
+  top: 17px;
+  left: 69px;
+  letter-spacing: 0.01em;
+  line-height: 26px;
+  font-weight: 500;
+  display: inline-block;
+}
+.rectangle-div16 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  border: 2px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 192px;
+  height: 57px;
+}
+.group-div5 {
+  position: relative;
+  width: 192px;
+  height: 57px;
+  flex-shrink: 0;
+  color: var(--color-gray-400);
+}
+.mercedes-div {
+  position: absolute;
+  top: 15px;
+  left: 37px;
+  letter-spacing: 0.01em;
+  line-height: 26px;
+  font-weight: 500;
+  display: inline-block;
+}
+.rectangle-div17 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  border: 2px solid var(--color-gray-600);
+  box-sizing: border-box;
+  width: 194px;
+  height: 57px;
+}
+.group-div6 {
+  position: relative;
+  width: 194px;
+  height: 57px;
+  flex-shrink: 0;
+}
+.bmw-div {
+  position: absolute;
+  top: 16px;
+  left: 72px;
+  letter-spacing: 0.01em;
+  line-height: 26px;
+  font-weight: 500;
+  display: inline-block;
+}
+.rectangle-div18 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  border: 2px solid var(--color-gray-600);
+  box-sizing: border-box;
+  width: 205px;
+  height: 57px;
+}
+.group-div7 {
+  position: relative;
+  width: 205px;
+  height: 57px;
+  flex-shrink: 0;
+}
+.frame-div7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-sm);
+}
+.group-div3,
+.text-div3 {
+  position: absolute;
+  top: 174px;
+  left: 0;
+  width: 839px;
+  height: 57px;
+  font-size: var(--font-size-xl);
+}
+.text-div3 {
+  top: 0;
+  left: 252px;
+  height: 231px;
+  font-size: var(--font-size-4xl);
+  color: var(--color-gray-900);
+}
+.section-5-div,
+.skoda-octavia-div4 {
+  position: absolute;
+  font-size: var(--font-size-2xl);
+  color: var(--color-gray-700);
+}
+.section-5-div {
+  top: 2882px;
+  left: 99px;
+  width: 1281px;
+  height: 1041px;
+}
+.skoda-octavia-div4 {
+  top: 3754px;
+  left: 1132px;
+  letter-spacing: 0.01em;
+  line-height: 26px;
+  font-weight: 500;
+  display: inline-block;
+}
+.our-services-benefits,
+.we-are-working-on-this-service {
+  position: relative;
+  line-height: 68px;
+  display: inline-block;
+}
+.we-are-working-on-this-service {
+  font-size: var(--font-size-base);
+  letter-spacing: 0.01em;
+  line-height: 30px;
+  font-weight: 500;
+  color: var(--color-gray-900);
+}
+.frame-div8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-md);
+}
+.rectangle-div19,
+.section-4-div,
+.text-div4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 665px;
+  height: 182px;
+}
+.rectangle-div19,
+.section-4-div {
+  top: 2296px;
+  left: 700px;
+}
+.rectangle-div19 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-300);
+  width: 1480px;
+  height: 704px;
+}
+.div,
+.the-best-price {
+  letter-spacing: 0.01em;
+  line-height: 32px;
+  font-weight: 500;
+  display: inline-block;
+}
+.div {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.the-best-price {
+  position: relative;
+}
+.frame-div10 {
+  position: absolute;
+  top: 0;
+  left: 67px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+  font-size: var(--font-size-3xl);
+  color: var(--color-gray-700);
+}
+.group-div10,
+.group-div11,
+.group-div12 {
+  position: relative;
+  width: 590px;
+  height: 112px;
+  flex-shrink: 0;
+}
+.group-div11,
+.group-div12 {
+  width: 514px;
+}
+.group-div12 {
+  width: 570px;
+}
+.frame-div9 {
+  position: absolute;
+  top: 124px;
+  left: 4px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-2xl);
+}
+.new-features-b {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 92px;
+  display: inline-block;
+}
+.rectangle-div20 {
+  position: absolute;
+  top: 56px;
+  left: 398px;
+  border-radius: 1px;
+  background-color: var(--color-gray-700);
+  width: 125px;
+  height: 4px;
+}
+.group-div13 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 523px;
+  height: 92px;
+  font-size: var(--font-size-4xl);
+  color: var(--color-gray-1200);
+}
+.text-div5 {
+  position: absolute;
+  top: 77px;
+  left: 100px;
+  width: 594px;
+  height: 588px;
+}
+.rectangle-icon {
+  position: relative;
+  border-radius: var(--br-md);
+  width: 238px;
+  height: 208px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.frame-div13 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 52px;
+}
+.image-div {
+  position: absolute;
+  top: 431px;
+  left: 789px;
+  width: 528px;
+  height: 208px;
+}
+.group-div9,
+.section-3-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1480px;
+  height: 704px;
+}
+.section-3-div {
+  top: 1402px;
+  font-size: var(--font-size-2xl);
+  color: var(--color-gray-900);
+}
+.ellipse-icon {
+  position: absolute;
+  top: 213px;
+  left: -29px;
+  width: 645px;
+  height: 235px;
+}
+.rectangle-icon2,
+.rectangle-icon3 {
+  position: relative;
+  border-radius: var(--br-md);
+  width: 91px;
+  height: 77.84px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.rectangle-icon3 {
+  height: 76.79px;
+}
+.frame-div14 {
+  position: absolute;
+  top: 24px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 36px;
+}
+.group-icon1 {
+  position: absolute;
+  top: 0;
+  left: 158px;
+  width: 282px;
+  height: 282px;
+}
+.image-div1,
+.rectangle-div21 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 531px;
+  height: 363px;
+}
+.rectangle-div21 {
+  border-radius: var(--br-sm);
+  background-color: var(--color-gray-400);
+  box-shadow: 1px 29px 24px 2px rgba(241, 98, 64, 0.1);
+  width: 210px;
+  height: 71px;
+}
+.learn-more-div {
+  position: absolute;
+  top: 20px;
+  left: 46px;
+  line-height: 30px;
+  font-weight: 500;
+  display: inline-block;
+}
+.group-div14 {
+  position: absolute;
+  top: 276px;
+  left: 0;
+  width: 210px;
+  height: 71px;
+}
+.we-have-a-large-number-of-vehi {
+  position: absolute;
+  top: 84px;
+  left: 0;
+  line-height: 32px;
+  font-weight: 500;
+  display: inline-block;
+  width: 473px;
+}
+.why-are-we-different {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-4xl);
+  line-height: 68px;
+  display: inline-block;
+  color: var(--color-gray-1200);
+}
+.text-div6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 626px;
+  height: 244px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-900);
+}
+.cta-div1,
+.section-2-div {
+  position: absolute;
+  top: 8px;
+  left: 645px;
+  width: 626px;
+  height: 347px;
+}
+.section-2-div {
+  top: 890px;
+  left: 102px;
+  width: 1271px;
+  height: 363px;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.shape-icon {
+  position: absolute;
+  top: 67px;
+  left: 0;
+  width: 1480px;
+  height: 685px;
+}
+.shadow-icon,
+.shadow-icon1 {
+  position: absolute;
+  top: 491px;
+  left: 682px;
+  width: 665px;
+  height: 258px;
+}
+.shadow-icon1 {
+  top: 2638px;
+  left: -7px;
+  width: 648px;
+}
+.group-icon2,
+.iconsoutlineuser {
+  position: relative;
+  width: 27.75px;
+  height: 27.92px;
+  flex-shrink: 0;
+}
+.iconsoutlineuser {
+  width: 25px;
+  height: 25px;
+}
+.frame-div15,
+.frame-div16 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.frame-div16 {
+  gap: 26px;
+}
+.frame-div15 {
+  position: absolute;
+  top: 0;
+  left: 909px;
+}
+.home-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 32px;
+  font-weight: 500;
+  display: inline-block;
+  width: 63.18px;
+}
+.group-div16 {
+  position: relative;
+  width: 63.18px;
+  height: 32px;
+  flex-shrink: 0;
+  color: var(--color-purple);
+}
+.products-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 32px;
+  font-weight: 500;
+  display: inline-block;
+  width: 93.64px;
+}
+.group-div17 {
+  position: relative;
+  width: 93.64px;
+  height: 32px;
+  flex-shrink: 0;
+}
+.categories-div1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 32px;
+  font-weight: 500;
+  display: inline-block;
+  width: 113.94px;
+}
+.group-div18 {
+  position: relative;
+  width: 113.94px;
+  height: 32px;
+  flex-shrink: 0;
+}
+.about-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 32px;
+  font-weight: 500;
+  display: inline-block;
+  width: 62.05px;
+}
+.group-div19 {
+  position: relative;
+  width: 62.05px;
+  height: 32px;
+  flex-shrink: 0;
+}
+.frame-div17 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-2xl);
+}
+.group-div15,
+.menu-bar-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 524.8px;
+  height: 32px;
+}
+.menu-bar-div {
+  top: 117px;
+  left: 394px;
+  width: 985.34px;
+  font-size: var(--font-size-base);
+}
+.cta-div2,
+.rectangle-div22 {
+  position: absolute;
+  width: 210px;
+  height: 71px;
+}
+.rectangle-div22 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-purple);
+  box-shadow: 1px 29px 24px 2px rgba(241, 98, 64, 0.1);
+}
+.cta-div2 {
+  top: 601px;
+  left: 100px;
+  color: var(--color-gray-800);
+}
+.get-to-know-us-more {
+  position: absolute;
+  top: 17px;
+  left: 88px;
+  line-height: 37px;
+  font-weight: 500;
+  display: inline-block;
+}
+.ellipse-icon1,
+.vector-icon {
+  position: absolute;
+  top: -12px;
+  left: -16px;
+  width: 102px;
+  height: 102px;
+}
+.vector-icon {
+  top: 23.89px;
+  left: 29px;
+  border-radius: 2px;
+  width: 18px;
+  height: 25px;
+}
+.vedio-button-div {
+  position: absolute;
+  top: 602px;
+  left: 344px;
+  width: 316px;
+  height: 70px;
+}
+.bring-your-dream-car-to-life,
+.tell-us-what-you-like-and-wel {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 84px;
+  display: inline-block;
+}
+.tell-us-what-you-like-and-wel {
+  top: 192px;
+  font-size: var(--font-size-base);
+  line-height: 32px;
+  font-weight: 500;
+  color: var(--color-gray-900);
+  width: 473px;
+}
+.text-div7 {
+  position: absolute;
+  top: 297px;
+  left: 100px;
+  width: 648px;
+  height: 288px;
+  font-size: 72px;
+}
+.section-1-div {
+  position: absolute;
+  top: -67px;
+  left: 7px;
+  width: 1480px;
+  height: 2811px;
+  font-size: var(--font-size-lg);
+}
+.pexels-ihor-lypnytskyi-9927973-icon {
+  position: relative;
+  width: 596.67px;
+  height: 797.13px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.frame-div18 {
+  position: absolute;
+  top: 3.45px;
+  left: 728.64px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-md);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-div23 {
+  position: absolute;
+  top: 316.86px;
+  left: 791px;
+  background-color: var(--color-gray-200);
+  width: 46px;
+  height: 115px;
+  transform: rotate(-11.1deg);
+  transform-origin: 0 0;
+}
+.pexels-mike-b-898336-removebg-icon {
+  position: relative;
+  width: 465px;
+  height: 309px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.frame-div19 {
+  position: absolute;
+  top: 913px;
+  left: 160px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-md);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pexels-mike-b-100653-removebg-icon,
+.pexels-sebastian-voortman-1660-icon {
+  position: absolute;
+  top: 2286px;
+  left: 0;
+  width: 666px;
+  height: 375px;
+  object-fit: cover;
+}
+.pexels-sebastian-voortman-1660-icon {
+  top: 46.11px;
+  width: 627.68px;
+  height: 390.62px;
+}
+.b-div,
+.e-div {
+  position: absolute;
+  transform-origin: 0 0;
+}
+.b-div {
+  top: -54.84px;
+  left: 89.63px;
+  font-weight: 500;
+  display: inline-block;
+  width: 7.25px;
+  height: 17.85px;
+  transform: rotate(97.66deg);
+}
+.e-div {
+  top: -41.77px;
+  left: 87.03px;
+  width: 6.7px;
+  transform: rotate(112.74deg);
+}
+.e-div,
+.s-div,
+.t-div {
+  font-weight: 500;
+  display: inline-block;
+  height: 17.85px;
+}
+.s-div {
+  position: absolute;
+  top: -30.49px;
+  left: 81.47px;
+  width: 6.14px;
+  transform: rotate(126.96deg);
+  transform-origin: 0 0;
+}
+.t-div {
+  top: -21.16px;
+  left: 73.58px;
+  width: 7.81px;
+  transform: rotate(142.03deg);
+}
+.div3,
+.o-div,
+.p-div,
+.r-div,
+.t-div {
+  position: absolute;
+  transform-origin: 0 0;
+}
+.div3 {
+  top: -13.68px;
+  left: 62.58px;
+  font-weight: 500;
+  color: var(--color-gray-500);
+  display: inline-block;
+  width: 2.79px;
+  height: 17.85px;
+  transform: rotate(154.53deg);
+}
+.o-div,
+.p-div,
+.r-div {
+  color: var(--color-white);
+}
+.p-div {
+  top: -10.45px;
+  left: 55.02px;
+  font-weight: 500;
+  display: inline-block;
+  width: 7.25px;
+  height: 17.85px;
+  transform: rotate(166.59deg);
+}
+.o-div,
+.r-div {
+  width: 7.81px;
+}
+.r-div {
+  top: -8.13px;
+  left: 41.7px;
+  font-weight: 500;
+  display: inline-block;
+  height: 17.85px;
+  transform: rotate(-177.47deg);
+}
+.o-div {
+  top: -9.67px;
+  left: 27.62px;
+  transform: rotate(-161.1deg);
+}
+.d-div,
+.o-div,
+.u-div {
+  font-weight: 500;
+  display: inline-block;
+  height: 17.85px;
+}
+.d-div {
+  position: absolute;
+  top: -15.08px;
+  left: 14.63px;
+  color: var(--color-white);
+  width: 7.25px;
+  transform: rotate(-145.16deg);
+  transform-origin: 0 0;
+}
+.u-div {
+  top: -23.47px;
+  left: 4.03px;
+  width: 7.81px;
+  transform: rotate(-129.22deg);
+}
+.c-div,
+.t-div1,
+.u-div {
+  position: absolute;
+  color: var(--color-white);
+  transform-origin: 0 0;
+}
+.c-div {
+  top: -34.92px;
+  left: -4.14px;
+  font-weight: 500;
+  display: inline-block;
+  width: 7.25px;
+  height: 17.85px;
+  transform: rotate(-113.28deg);
+}
+.t-div1 {
+  top: -47.65px;
+  left: -8.71px;
+  width: 7.81px;
+  transform: rotate(-97.34deg);
+}
+.b-div1,
+.div4,
+.t-div1 {
+  font-weight: 500;
+  display: inline-block;
+  height: 17.85px;
+}
+.div4 {
+  position: absolute;
+  top: -60.92px;
+  left: -9.54px;
+  color: var(--color-gray-500);
+  width: 2.79px;
+  transform: rotate(-84.85deg);
+  transform-origin: 0 0;
+}
+.b-div1 {
+  top: -69.08px;
+  left: -8.47px;
+  width: 7.25px;
+  transform: rotate(-72.79deg);
+}
+.b-div1,
+.e-div1,
+.s-div1 {
+  position: absolute;
+  transform-origin: 0 0;
+}
+.e-div1 {
+  top: -81.53px;
+  left: -3.73px;
+  font-weight: 500;
+  display: inline-block;
+  width: 6.7px;
+  height: 17.85px;
+  transform: rotate(-57.71deg);
+}
+.s-div1 {
+  top: -91.73px;
+  left: 3.62px;
+  width: 6.14px;
+  transform: rotate(-43.49deg);
+}
+.div5,
+.s-div1,
+.t-div2 {
+  font-weight: 500;
+  display: inline-block;
+  height: 17.85px;
+}
+.t-div2 {
+  position: absolute;
+  top: -99.63px;
+  left: 12.95px;
+  width: 7.81px;
+  transform: rotate(-28.42deg);
+  transform-origin: 0 0;
+}
+.div5 {
+  top: -105.18px;
+  left: 25.04px;
+  width: 2.79px;
+  transform: rotate(-15.92deg);
+}
+.b-div2,
+.div5,
+.r-div1 {
+  position: absolute;
+  transform-origin: 0 0;
+}
+.b-div2 {
+  top: -107.11px;
+  left: 33.03px;
+  font-weight: 500;
+  display: inline-block;
+  width: 7.25px;
+  height: 17.85px;
+  transform: rotate(-3.86deg);
+}
+.r-div1 {
+  top: -107.18px;
+  left: 46.55px;
+  width: 7.81px;
+  transform: rotate(12.08deg);
+}
+.a-div,
+.n-div,
+.r-div1 {
+  font-weight: 500;
+  display: inline-block;
+  height: 17.85px;
+}
+.a-div {
+  position: absolute;
+  top: -103.33px;
+  left: 60.18px;
+  width: 7.81px;
+  transform: rotate(28.45deg);
+  transform-origin: 0 0;
+}
+.n-div {
+  top: -95.75px;
+  left: 72.27px;
+  width: 8.37px;
+  transform: rotate(45.25deg);
+}
+.d-div1,
+.group-div21,
+.n-div {
+  position: absolute;
+  transform-origin: 0 0;
+}
+.d-div1 {
+  top: -84.63px;
+  left: 81.91px;
+  font-weight: 500;
+  display: inline-block;
+  width: 7.25px;
+  height: 17.85px;
+  transform: rotate(61.62deg);
+}
+.group-div21 {
+  top: 115.43px;
+  left: 426.33px;
+  width: 99.42px;
+  height: 98.03px;
+  transform: rotate(-100.36deg);
+}
+.group-div20 {
+  position: absolute;
+  top: 4168px;
+  left: 757.54px;
+  width: 627.68px;
+  height: 436.73px;
+  font-size: var(--font-size-xs);
+  color: var(--color-brown);
+}
+.pexels-mike-b-116675-removebg-icon {
+  position: absolute;
+  top: 1432px;
+  left: 713px;
+  width: 666px;
+  height: 375px;
+  object-fit: cover;
+}
+.price-tag-icon {
+  position: relative;
+  width: 49px;
+  height: 48px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.no-haggle-no-pressure-we-post {
+  position: relative;
+  display: inline-block;
+}
+.frame-div20 {
+  position: absolute;
+  top: 2540px;
+  left: 700px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-xs);
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.layer-2-icon {
+  position: relative;
+  width: 51px;
+  height: 47.5px;
+  flex-shrink: 0;
+}
+.frame-div21,
+.frame-div22 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-div21 {
+  position: absolute;
+  top: 2540px;
+  left: 1054px;
+  justify-content: center;
+  gap: var(--gap-xs);
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.logo-2-1 {
+  position: absolute;
+  top: 7px;
+  left: 51px;
+  width: 223px;
+  height: 204px;
+  object-fit: cover;
+}
+.rectangle-icon5 {
+  top: 6px;
+  border-radius: var(--br-xl);
+  height: 550px;
+  object-fit: cover;
+}
+.group-div22,
+.rectangle-div24,
+.rectangle-icon5 {
+  position: absolute;
+  left: 0;
+  width: 530px;
+}
+.rectangle-div24 {
+  top: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-1000);
+  height: 537px;
+}
+.group-div22 {
+  top: -6px;
+  height: 550px;
+}
+.union-icon {
+  position: relative;
+  border-radius: var(--br-sm);
+  width: 0;
+  height: 0;
+}
+.group-icon3 {
+  position: absolute;
+  top: 60px;
+  left: 27px;
+  width: 483px;
+  height: 418px;
+}
+.electrical-engineer-div,
+.poula-adel-div {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 26px;
+  font-weight: 500;
+  display: inline-block;
+}
+.electrical-engineer-div {
+  font-size: var(--font-size-2xs);
+  color: var(--color-gray-1100);
+}
+.frame-div24 {
+  position: absolute;
+  top: 165px;
+  left: 202px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.frame-div25 {
+  position: absolute;
+  top: 263px;
+  left: 46px;
+}
+.i-enjoyed-my-experience-with-y {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 28px;
+  font-weight: 500;
+  display: inline-block;
+}
+.vector-icon1 {
+  position: relative;
+  width: 20px;
+  height: 20.04px;
+  flex-shrink: 0;
+}
+.star-div {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-2xs);
+}
+.frame-div26 {
+  position: absolute;
+  top: 271px;
+  left: 54px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-sm);
+}
+.frame-div23,
+.frame-div27 {
+  position: absolute;
+  top: 5038px;
+  left: 101px;
+  border-radius: var(--br-xl);
+  width: 536px;
+  height: 537px;
+  overflow: hidden;
+  font-size: var(--font-size-xl);
+}
+.frame-div27 {
+  left: 844px;
+}
+.car-shop-div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 6384px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-4xl);
+  color: var(--color-gray-1200);
+  font-family: var(--font-poppins);
+}
